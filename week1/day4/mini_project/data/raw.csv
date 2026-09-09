@@ -1,0 +1,19 @@
+request_id,model,prompt_tokens,completion_tokens,latency_ms,success
+1, GPT ,120,45.0,1250.0,True
+2,claude,200,80.0,980.0,True
+3,gpt,unknown,50.0,1100.0,False
+4,Gemini,150,60.0,870.0,True
+5,CLAUDE,320,,1450.0,True
+6,gemini,90,35.0,,False
+7,GPT,250,110.0,1600.0,True
+8, claude ,180,70.0,1050.0,True
+9,gemini,210,95.0,1300.0,False
+10,gpt,75,25.0,620.0,True
+11,Claude,,55.0,900.0,False
+12,GEMINI,400,160.0,2100.0,True
+13,gpt ,140,65.0,0.0,True
+14,claude,280,120.0,1750.0,True
+15, Gemini ,110,40.0,760.0,True
+16,GPT,500,220.0,2400.0,False
+17,claude,160,75.0,1020.0,True
+8, claude ,180,70.0,1050.0,True
