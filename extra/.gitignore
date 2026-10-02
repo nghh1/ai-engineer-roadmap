@@ -1,0 +1,3 @@
+# TypeScript Specific
+*.js
+node_modules/
